@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NGram.cs">
+    <Files>
+      <File FileName="Assets\Scripts\gamelogic.cs" Line="552" Column="4" />
+      <File FileName="Assets\Scripts\saveData.cs" Line="19" Column="30" />
+      <File FileName="Assets\Scripts\Cube.cs" Line="19" Column="26" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="188" Column="33" />
+      <File FileName="Assets\Scripts\resetButton.cs" Line="15" Column="18" />
+      <File FileName="Assets\Scripts\NGram.cs" Line="143" Column="40" />
+      <File FileName="Assets\Scripts\rules.cs" Line="13" Column="36" />
+      <File FileName="Assets\Scripts\SetAutoMode.cs" Line="37" Column="10" />
+      <File FileName="Assets\Scripts\SetAutoModeDelay.cs" Line="42" Column="73" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="193" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
